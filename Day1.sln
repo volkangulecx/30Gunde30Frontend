@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassmorphismLanding", "GlassmorphismLanding\GlassmorphismLanding.csproj", "{2B4DA5E0-40F5-43CC-8E72-B9313AC0400E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4DA5E0-40F5-43CC-8E72-B9313AC0400E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4DA5E0-40F5-43CC-8E72-B9313AC0400E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4DA5E0-40F5-43CC-8E72-B9313AC0400E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4DA5E0-40F5-43CC-8E72-B9313AC0400E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF8CEA3-6539-4AEB-906A-515BB52756F6}
+	EndGlobalSection
+EndGlobal
